@@ -43,7 +43,7 @@ Types of Analysis
 
 
 ## Contact
-Nimish Mohas and Anuja Mohite
+Nimish Mohan and Anuja Mohite
 
 
 <!-- Optional -->
